@@ -1,0 +1,4 @@
+System,Throughput (jobs),Throughput Rate (jobs/min),Avg Lead Time (min),Late Jobs,Late Jobs (%),Avg WIP
+MRP,3169,0.1666,3299.99,30,0.95,549.71
+CONWIP,3169,0.1655,119.32,133,4.2,19.75
+Hybrid,3169,0.1666,119.7,30,0.95,19.94
